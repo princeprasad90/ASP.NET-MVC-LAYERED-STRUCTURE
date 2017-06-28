@@ -1,0 +1,12 @@
+c:\users\prince\documents\visual studio 2015\Projects\ASP.NET-MVC-LAYERED-STRUCTURE\MVC-LAYERED-STRUCTURE.Service\bin\Debug\MVC-LAYERED-STRUCTURE.Service.dll
+c:\users\prince\documents\visual studio 2015\Projects\ASP.NET-MVC-LAYERED-STRUCTURE\MVC-LAYERED-STRUCTURE.Service\bin\Debug\MVC-LAYERED-STRUCTURE.Service.pdb
+c:\users\prince\documents\visual studio 2015\Projects\ASP.NET-MVC-LAYERED-STRUCTURE\MVC-LAYERED-STRUCTURE.Service\obj\Debug\MVC-LAYERED-STRUCTURE.Service.csprojResolveAssemblyReference.cache
+c:\users\prince\documents\visual studio 2015\Projects\ASP.NET-MVC-LAYERED-STRUCTURE\MVC-LAYERED-STRUCTURE.Service\obj\Debug\MVC-LAYERED-STRUCTURE.Service.dll
+c:\users\prince\documents\visual studio 2015\Projects\ASP.NET-MVC-LAYERED-STRUCTURE\MVC-LAYERED-STRUCTURE.Service\obj\Debug\MVC-LAYERED-STRUCTURE.Service.pdb
+c:\users\prince\documents\visual studio 2015\Projects\ASP.NET-MVC-LAYERED-STRUCTURE\MVC-LAYERED-STRUCTURE.Service\bin\Debug\MVC-LAYERED-STRUCTURE.Service.dll.config
+c:\users\prince\documents\visual studio 2015\Projects\ASP.NET-MVC-LAYERED-STRUCTURE\MVC-LAYERED-STRUCTURE.Service\bin\Debug\EntityFramework.dll
+c:\users\prince\documents\visual studio 2015\Projects\ASP.NET-MVC-LAYERED-STRUCTURE\MVC-LAYERED-STRUCTURE.Service\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\prince\documents\visual studio 2015\Projects\ASP.NET-MVC-LAYERED-STRUCTURE\MVC-LAYERED-STRUCTURE.Service\bin\Debug\MVC-LAYERED-STRUCTURE.Model.dll
+c:\users\prince\documents\visual studio 2015\Projects\ASP.NET-MVC-LAYERED-STRUCTURE\MVC-LAYERED-STRUCTURE.Service\bin\Debug\EntityFramework.xml
+c:\users\prince\documents\visual studio 2015\Projects\ASP.NET-MVC-LAYERED-STRUCTURE\MVC-LAYERED-STRUCTURE.Service\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\prince\documents\visual studio 2015\Projects\ASP.NET-MVC-LAYERED-STRUCTURE\MVC-LAYERED-STRUCTURE.Service\bin\Debug\MVC-LAYERED-STRUCTURE.Model.pdb
